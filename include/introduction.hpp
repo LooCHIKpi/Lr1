@@ -25,7 +25,7 @@ public:
 
     std::string fullname() const
     {
-        return Danil_Borgoyakov
+        return Danil_Borgoyakov_2
     }
 
 private:
